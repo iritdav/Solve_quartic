@@ -110,7 +110,7 @@ def main():
     
     # Example: Solving x^4 - 10x^3 + 35x^2 - 50x + 24 = 0
     # Roots for this equation are x = 1, 2, 3, 4
-    a, b, c, d, e = 1,0,0, 0, -1
+    a, b, c, d, e = 1,0,-5, 0, 4
     
     print(f"Solving: {a}x⁴ + ({b})x³ + ({c})x² + ({d})x + ({e}) = 0\n")
     
